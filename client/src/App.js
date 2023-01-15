@@ -5,9 +5,6 @@ import { Rubik } from './pages';
 function App() {
   return (
     <>
-      {/* <Routes>
-        <Route></Route>
-      </Routes> */}
       <Rubik />
     </>
   );

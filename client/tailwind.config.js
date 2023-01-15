@@ -9,13 +9,14 @@ module.exports = {
       },
 
       colors: {
-        'blk': '#1E1E1E',
-        'wht': '#F9F9F9',
-        'orng': '#FC5F1C',
-        'red': '#F63131',
-        'light-orng': '#FF8A58',
-        'light-gry': '#838383',
-        'light-lgry': '#D9D9D9'
+        'rubikBlk': '#1E1E1E',
+        'rubikWht': '#F9F9F9',
+        'rubikOrng' : '#FF5900',
+        'rubikRed' : '#B90000',
+        'rubikBlu' : '#0045AD',
+        'rubikGrn' : '#009B48',
+        'rubikYllw' : '#FFD500',
+        'light-gry' : '#e6e6e6'
       },
     },
   },
